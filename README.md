@@ -55,7 +55,7 @@ Scarcity, Sendhil Mullainathan & Eldar Shafir \
 Confront The Classics, Mary Beard \
 Rise Of The Robots, Ford \
 Lords Of Finance, Liaquat Ahamed \
-The Origin Of Species, Charles Darwin \ 
+The Origin Of Species, Charles Darwin \
 The Art Of Thinking Clearly, Rolf Dobelli \
 Capital in the Twenty-First Century, Thomas Piketty \
 Between The World And Me, Ta-Nehisi Coates \
