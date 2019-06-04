@@ -43,4 +43,32 @@ The Inner Lives of Markets, Ray Fisman and Tim Sullivan \
 The Road To Serfdom, F.A. Hayek \
 Pericles Of Athens and Birth of Democracy, Donald Kagan \
 Long Day's Journey Into Night, Eugene O'Neill \
+Shoe Dog, Phil Knight \
+Good To Great, Jim Collins \
+Liar's Poker, Michael Lewis \
+Barbarians At the Gate, Bryan Burrough \
+Contagious, Jonah Berger \
+Disciplines In The Making, G.E.R. Lloyd \
+The Big Short, Michael Lewis \
+'Surely You'Re Joking, Mr.Feynman!', Richard P.Feynman \
+Scarcity, Sendhil Mullainathan & Eldar Shafir \
+Confront The Classics, Mary Beard \
+Rise Of The Robots, Ford \
+Lords Of Finance, Liaquat Ahamed \
+The Origin Of Species, Charles Darwin \ 
+The Art Of Thinking Clearly, Rolf Dobelli \
+Capital in the Twenty-First Century, Thomas Piketty \
+Between The World And Me, Ta-Nehisi Coates \
+Brain Rules, John Medina \
+Flash Boys, Michael Lewis \
+When Breath Becomes Air, Paul Kalanithi \
+The Checklist Manifesto, Atul Gawande \
+Stress Test, Timothy F.Geithner \
+Sapiens, Yuval Noah Harari \
+The Structure Of Scientific Revolution, Thomas S.Kuhn \
+The Black Swan, Nassim Nicholas Taleb \
+The Metamorphosis, Franz Kafka \
+Thinking, Fast and Slow, Daniel Kahneman \
+My Promised Land, Ari Shavit 
+
  
