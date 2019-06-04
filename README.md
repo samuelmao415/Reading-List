@@ -22,6 +22,7 @@ The Fifth Risk, Michael Lewis \
 Factfulness, Hans Rosling \
 The Unwinding, George Packer \
 How To American, Jimmy O.Yang \
+千年悖论， 张宏杰 \
 Thank You For Being Late, Thomas L.Friedman \
 The Everything Store, Brad Stone \
 The Second Machine Age, Brynjolfsson and McAfee \
