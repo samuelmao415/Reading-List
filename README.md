@@ -1,5 +1,10 @@
 # books_read
 Books read since 2016: \
+The China Mission, Daniel Kurtz-Phelan \
+Zero to One, Peter Thiel \ 
+The Shanghai Free Taxi, Frank Langfitt \
+Buffett The Making Of an American Capitalist, Roger Lowenstein \
+Measure What Matters, John Doerr \
 Capitalism and Freedom, Milton Friedman \
 From Third World To First, Lee Kuan Yew \
 The Mission of A Lifetime, Basil Hero \
