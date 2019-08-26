@@ -1,5 +1,5 @@
 # books_read
-Books read since 2016: \
+Books read since 2015 after college: \
 The China Mission, Daniel Kurtz-Phelan \
 Zero to One, Peter Thiel \
 The Shanghai Free Taxi, Frank Langfitt \
@@ -74,6 +74,14 @@ The Structure Of Scientific Revolution, Thomas S.Kuhn \
 The Black Swan, Nassim Nicholas Taleb \
 The Metamorphosis, Franz Kafka \
 Thinking, Fast and Slow, Daniel Kahneman \
-My Promised Land, Ari Shavit 
+My Promised Land, Ari Shavit \
+Clash of Civilizations, Samuel Huntington \
+The King of Capital, David Carey, John E. Morris
+
+
+
+
+
+
 
  
