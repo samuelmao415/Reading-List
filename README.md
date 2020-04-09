@@ -11,8 +11,8 @@ The American Story, David M. Rubenstein \
 The Hard Things About Hard Things, Ben Horowitz \
 The Ride Of A Lifetime, Robert Iger \
 The Five Dysfunction of a Team, Patrick Lencioni \
-Razzle Dazzle, Michael Riedel \ 
-The One World Schoolhouse, Salman Khan \ 
+Razzle Dazzle, Michael Riedel \
+The One World Schoolhouse, Salman Khan \
 Grit, Angela Duckworth \
 The Darkening Age, Catherine Nixey \
 The China Mission, Daniel Kurtz-Phelan \
