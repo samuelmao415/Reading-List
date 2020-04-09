@@ -1,5 +1,20 @@
 # books_read
 Books read since 2015 after college: \
+The Generalissimo, Jay Taylor \
+Think And Grow Rich, Napoleon Hill \
+The Prince, Niccolo Machiavelli \
+Courage to Grow, Laura A. Sandefer \
+The Monk Who Sold His Ferrari, Robin S. Sharma \
+The Democratic Coup D'Etat, Ozan Varol \
+Winning Arguments, Stanley Fish \
+The American Story, David M. Rubenstein \
+The Hard Things About Hard Things, Ben Horowitz \
+The Ride Of A Lifetime, Robert Iger \
+The Five Dysfunction of a Team, Patrick Lencioni \
+Razzle Dazzle, Michael Riedel \ 
+The One World Schoolhouse, Salman Khan \ 
+Grit, Angela Duckworth \
+The Darkening Age, Catherine Nixey \
 The China Mission, Daniel Kurtz-Phelan \
 Zero to One, Peter Thiel \
 The Shanghai Free Taxi, Frank Langfitt \
