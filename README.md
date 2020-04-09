@@ -92,11 +92,3 @@ Thinking, Fast and Slow, Daniel Kahneman \
 My Promised Land, Ari Shavit \
 Clash of Civilizations, Samuel Huntington \
 The King of Capital, David Carey, John E. Morris
-
-
-
-
-
-
-
- 
