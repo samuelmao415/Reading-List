@@ -1,5 +1,6 @@
 # books_read
 Books read since 2015 after college: \
+On China, Henry Kissinger \
 The Generalissimo, Jay Taylor \
 Think And Grow Rich, Napoleon Hill \
 The Prince, Niccolo Machiavelli \
