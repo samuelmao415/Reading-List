@@ -1,5 +1,6 @@
 # books_read
 Books read since 2015 after college: \
+Blitzscaling, Reid Hoffman, Chris Yeh \
 On China, Henry Kissinger \
 The Generalissimo, Jay Taylor \
 Think And Grow Rich, Napoleon Hill \
