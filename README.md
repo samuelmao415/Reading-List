@@ -1,5 +1,7 @@
 # books_read
 Books read since 2015 after college: \
+The New New Thing, Michael Lewis \
+The Tragedy Of Liberation, Frank Dikotter \
 Blitzscaling, Reid Hoffman, Chris Yeh \
 On China, Henry Kissinger \
 The Generalissimo, Jay Taylor \
