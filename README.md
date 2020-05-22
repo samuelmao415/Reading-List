@@ -1,5 +1,6 @@
 # books_read
 Books read since 2015 after college: \
+Competing In The Age Of AI, Marco Iansiti, Karim R.Lakhani \
 The New New Thing, Michael Lewis \
 The Tragedy Of Liberation, Frank Dikotter \
 Blitzscaling, Reid Hoffman, Chris Yeh \
