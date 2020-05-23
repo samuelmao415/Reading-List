@@ -35,6 +35,8 @@ Leading, Alex Ferguson \
 King Lear, William Shakespeare \
 The Defining Decade, Meg Jay \
 Why I Am Not a Christian, Bertrand Russell \
+Sand and Foam, Kahlil Gibran \
+The Prophet, Kahlil Gibran \
 Road To Heaven, Bill Porter \
 Fascism, Madeleine Albright \
 The Nationalist Revial, John B.Judis \
@@ -53,6 +55,8 @@ The Everything Store, Brad Stone \
 The Second Machine Age, Brynjolfsson and McAfee \
 A World Of Three Zeros, Muhammad Yunus \
 Optimism Over Despair, Noam Chomsky \
+The Seventh Sense, Joshua Cooper Ramo \
+Elon Musk, Ashlee Vance \
 Zealot, Reza Aslan \
 Age of Ambition, Evan Osnos \
 Option B, Sheryl Sandberg and Adam Grant \
