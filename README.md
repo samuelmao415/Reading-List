@@ -93,7 +93,7 @@ Sapiens, Yuval Noah Harari \
 The Structure Of Scientific Revolution, Thomas S.Kuhn \
 The Black Swan, Nassim Nicholas Taleb \
 The Metamorphosis, Franz Kafka \
-Athropology, A Very Short Introduction, Monaghan & Just \
+Anthropology, A Very Short Introduction, Monaghan & Just \
 Thinking, Fast and Slow, Daniel Kahneman \
 My Promised Land, Ari Shavit \
 Clash of Civilizations, Samuel Huntington \
