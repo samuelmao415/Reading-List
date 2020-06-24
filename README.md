@@ -1,5 +1,9 @@
 # books_read
 Books read since 2015 after college: \
+Call Sign Chaos. Jim Mattis \
+What It Takes, Stephen A. Schwarzman \
+The Talent Code, Daniel Coyle \
+Barking Up The Wrong Tree, Eric Barker \
 Competing In The Age Of AI, Marco Iansiti, Karim R.Lakhani \
 The New New Thing, Michael Lewis \
 The Tragedy Of Liberation, Frank Dikotter \
