@@ -1,5 +1,9 @@
 # books_read
 Books read since 2015 after college: \
+第四消费时代， 三浦展 \
+Managing Oneself, Peter F. Drucker \
+可复制的沟通里， 樊登 \
+Scipio Africanus, B.H.Liddell Hart \
 Call Sign Chaos. Jim Mattis \
 What It Takes, Stephen A. Schwarzman \
 The Talent Code, Daniel Coyle \
