@@ -1,5 +1,7 @@
 # books_read
 Books read since 2015 after college: \
+Dealing With China, Henry M. Paulson, JR \
+文明、现代化、价值投资与中国， 李录 \
 第四消费时代， 三浦展 \
 Managing Oneself, Peter F. Drucker \
 可复制的沟通里， 樊登 \
