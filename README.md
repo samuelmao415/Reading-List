@@ -1,7 +1,7 @@
 # books_read
 Books read since 2015 after college: \
 \
-*2020*: \
+**2020**: \
 蚂蚁金服, 由曦 \
 中国近代史, 蒋廷黻 \
 邓小平时代, Ezra E. Vogel \
@@ -30,7 +30,7 @@ Winning Arguments, Stanley Fish \
 The American Story, David M. Rubenstein \
 The Hard Things About Hard Things, Ben Horowitz \
 \
-*2019*: \
+**2019**: \
 The Ride Of A Lifetime, Robert Iger \
 The Five Dysfunction of a Team, Patrick Lencioni \
 Razzle Dazzle, Michael Riedel \
@@ -70,7 +70,7 @@ The Unwinding, George Packer \
 How To American, Jimmy O.Yang \
 千年悖论， 张宏杰 \
 \
-*2017*: \
+**2017**: \
 Thank You For Being Late, Thomas L.Friedman \
 The Everything Store, Brad Stone \
 The Second Machine Age, Brynjolfsson and McAfee \
@@ -83,8 +83,6 @@ Age of Ambition, Evan Osnos \
 Option B, Sheryl Sandberg and Adam Grant \
 Strange Stones, Peter Hessler \
 Give And Take, Adam Grant \
-
-Microsoft To Change The World, John Wood \
 Originals, Adam Grant \
 Data Science For Business, Provost & Fawcett \
 When Genius Failed, Roger Lowenstein \
@@ -96,7 +94,7 @@ Pericles Of Athens and Birth of Democracy, Donald Kagan \
 Long Day's Journey Into Night, Eugene O'Neill \
 Shoe Dog, Phil Knight \
 \
-*2016*: \
+**2016**: \
 Good To Great, Jim Collins \
 Liar's Poker, Michael Lewis \
 Barbarians At the Gate, Bryan Burrough \
@@ -125,4 +123,6 @@ Anthropology, A Very Short Introduction, Monaghan & Just \
 Thinking, Fast and Slow, Daniel Kahneman \
 My Promised Land, Ari Shavit \
 Clash of Civilizations, Samuel Huntington \
-The King of Capital, David Carey, John E. Morris
+The King of Capital, David Carey, John E. Morris \
+Leaving Microsoft To Change The World, John Wood \
+How Google Works, Eric Schmidt and Jonathan Rosenberg
