@@ -59,7 +59,7 @@ Fascism, Madeleine Albright \
 The Nationalist Revial, John B.Judis \
 The Populist Explosion, John B.Judis \
 \
-*2018*: \
+**2018**: \
 Only The Paranoid Survice, Andrew S.Grove \
 Bacchae, Euripides \
 Bad Blood, John Carreyrou \
