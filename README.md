@@ -1,5 +1,8 @@
 # books_read
 Books read since 2015 after college: \
+蚂蚁金服. 由曦 \
+中国近代史, 蒋廷黻 \
+邓小平时代, Ezra E. Vogel \
 Dealing With China, Henry M. Paulson, JR \
 文明、现代化、价值投资与中国， 李录 \
 第四消费时代， 三浦展 \
