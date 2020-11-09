@@ -2,6 +2,7 @@
 Books read since 2015 after college: \
 \
 **2020**: \
+中国人的精神，辜鸿铭 \
 蚂蚁金服, 由曦 \
 中国近代史, 蒋廷黻 \
 邓小平时代, Ezra E. Vogel \
