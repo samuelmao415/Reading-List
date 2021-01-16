@@ -3,6 +3,8 @@ Books read since 2015 after college: \
 \
 
 **2021**: \
+No Rules Rules, Reed Hastings, Erin Myer \
+我曾走在崩溃的边缘，俞敏洪 \
 \
 **2020**: \
 像火箭科学家一样思考， Ozan Varol \
