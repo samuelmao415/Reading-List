@@ -3,8 +3,9 @@ Books read since 2015 after college: \
 \
 
 **2021**: \
+毛泽东选集, 第一卷 \
 稻盛和夫自传， 稻盛和夫 \
-张学良 口述历史， 唐德刚 \
+张学良口述历史， 唐德刚 \
 沉默的大多数，王小波 \
 货币、权利与人，翟东升 \
 No Rules Rules, Reed Hastings, Erin Myer \
