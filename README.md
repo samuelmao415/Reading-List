@@ -3,6 +3,7 @@ Books read since 2015 after college: \
 \
 
 **2021**: \
+蒋介石转, 克洛泽Crozier \
 毛泽东选集, 第一卷 \
 稻盛和夫自传， 稻盛和夫 \
 张学良口述历史， 唐德刚 \
