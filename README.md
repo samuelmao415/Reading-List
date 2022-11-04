@@ -1,6 +1,6 @@
 # books_read
-Books read since 2015 after college: \
-\
+Books read since 2015 after college:  
+ \
 **2022**: \
 Out of the Ether, Matthew Leising \
 Kings of Cryto, Jeff John Roberts \
@@ -12,6 +12,9 @@ Digital Gold, Nathaniel Popper \
 韧性，张晓萌 \
 Finite and Infinite Games, James P.Carse \
 抗住就是本事，冯仑 \
+伟大的道路，艾格妮丝 \
+The Cold Start Problem, Andrew Chen \
+
 
 **2021**: \
 星火的启示，金冲及 \
