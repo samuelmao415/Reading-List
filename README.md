@@ -14,6 +14,7 @@ Finite and Infinite Games, James P.Carse \
 抗住就是本事，冯仑 \
 伟大的道路，艾格妮丝 \
 The Cold Start Problem, Andrew Chen \
+了凡四训, 费勇译 \
 
 
 **2021**: \
