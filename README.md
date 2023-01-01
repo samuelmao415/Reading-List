@@ -15,7 +15,8 @@ Finite and Infinite Games, James P.Carse \
 伟大的道路，艾格妮丝 \
 The Cold Start Problem, Andrew Chen \
 了凡四训, 费勇译 \
-做对产品，阿尔贝托索维亚 
+做对产品，阿尔贝托索维亚 \
+素书
 
 
 **2021**: \
