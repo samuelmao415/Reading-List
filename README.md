@@ -1,6 +1,29 @@
 # books_read
 Books read since 2015 after college:  
  \
+
+**2023**: \
+蒋介石日记，黄仁宇 \ 
+一切都是最好的安排，加措 \
+禅心商道， 大愿 \
+但行好事，莫问前程， 大愿 \
+如何做个快乐的修行人, 大愿 \
+药师法门 今生成就法，大愿 \
+西行漫记，Edgar Snow \
+禅智慧与企业创新，大愿 \
+学习禅，大愿 \
+The Way to Love, Anthony De Mello \
+曾仕强经典语录， 罗浮山国学院 \
+药师经，地藏经 \
+价值， 张磊 \
+点亮自性之光，克里希那穆提 \
+死后的世界， Raymond A.Moody \
+置身事内，兰小欢 \
+相信，蔡磊 \
+朱镕基传，Laurence J.Brahm \
+周恩来传，迪克威尔逊 \
+
+ 
 **2022**: \
 Out of the Ether, Matthew Leising \
 Kings of Cryto, Jeff John Roberts \
